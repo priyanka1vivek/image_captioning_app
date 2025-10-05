@@ -1,7 +1,13 @@
 # Image Captioning App
 
 This combines analysis with image captioning using the Salesforce BLIP model and Hugging Face's Transformers library. It provides captions for uploaded images on the basis of categories like Greedy, Beam, or Nucleus algorithms.
-Evaluation Dataset: MS COCO (Microsoft Common Objects in Context) https://cocodataset.org
+
+*Working:*
+<img width="1883" height="975" alt="image" src="https://github.com/user-attachments/assets/202f1b0d-9168-4fbb-ab8d-61b6190f9163" />
+<img width="1865" height="929" alt="image" src="https://github.com/user-attachments/assets/73d674d7-bdc3-48e0-991b-700cf17f4e13" />
+
+
+*Evaluation Dataset:* MS COCO (Microsoft Common Objects in Context) https://cocodataset.org
 
 *Model Selection:*
 A single, end-to-end BLIP (Bootstrapping Language-Image Pre-training) Transformer model (Salesforce/blip-image-captioning-large).
