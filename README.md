@@ -23,3 +23,5 @@ o	METEOR: For semantic accuracy, as it recognizes synonyms and stemmed words.
 o	ROUGE-L: For recall, ensuring the main ideas are captured.
 
 o	CIDEr: The primary metric for this task, designed to measure how well a caption matches human consensus.
+
+*Deployment:* This is run in the browser with the help of streamlit user interface. 
