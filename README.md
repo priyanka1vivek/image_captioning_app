@@ -8,7 +8,8 @@ A single, end-to-end BLIP (Bootstrapping Language-Image Pre-training) Transforme
 BLIP is a unified vision-language model that processes images and text jointly. This allows it to learn far richer connections between visual concepts and words, resulting in more accurate and context-aware captions. 
 
 *Evaluation Metrics:* 
-To properly measure the quality of our model, we will expand the evaluation beyond a single, limited metric.
+To properly measure the quality of the model, we expand the evaluation beyond a single, limited metric.
+
 o	BLEU (1-4): For baseline precision comparison.
 
 o	METEOR: For semantic accuracy, as it recognizes synonyms and stemmed words.
