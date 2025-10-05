@@ -10,6 +10,9 @@ BLIP is a unified vision-language model that processes images and text jointly. 
 *Evaluation Metrics:* 
 To properly measure the quality of our model, we will expand the evaluation beyond a single, limited metric.
 o	BLEU (1-4): For baseline precision comparison.
+
 o	METEOR: For semantic accuracy, as it recognizes synonyms and stemmed words.
+
 o	ROUGE-L: For recall, ensuring the main ideas are captured.
+
 o	CIDEr: The primary metric for this task, designed to measure how well a caption matches human consensus.
